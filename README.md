@@ -1,4 +1,6 @@
-# vue-cli
+# Notes
+
+![App screen](https://github.com/ivan-isaev21/Notes/raw/master/src/assets/screen.png)
 
 ## Project setup
 ```
